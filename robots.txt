@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crimsondevil0929.github.io/fiduciary/sitemap.xml
